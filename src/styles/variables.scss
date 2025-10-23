@@ -1,0 +1,29 @@
+// 颜色变量
+$primary-color: #ff6b6b;
+$secondary-color: #ffa502;
+$accent-color: #ffd8a8;
+
+$tea-color: #ffd8a8;
+$coffee-color: #d4a574;
+$alcohol-color: #ff6b6b;
+
+$text-primary: #333;
+$text-secondary: #666;
+$text-light: #999;
+
+$background-light: #fff8f0;
+$background-gray: #f8f9fa;
+$border-color: #ddd;
+
+// 尺寸变量
+$border-radius-small: 8px;
+$border-radius-medium: 16px;
+$border-radius-large: 20px;
+
+$shadow-light: 0 8px 30px rgba(0, 0, 0, 0.08);
+$shadow-medium: 0 10px 30px rgba(0, 0, 0, 0.08);
+$shadow-heavy: 0 15px 50px rgba(0, 0, 0, 0.15);
+
+// 动画变量
+$transition-base: all 0.3s ease;
+$transition-transform: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
